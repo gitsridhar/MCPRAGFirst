@@ -1,0 +1,1 @@
+This repo contains code that has MCP client, MCP server with tools to injest and retrieve, RAG and LLM. MCP client talks to MCP server using Stdio paradigm. RAG can chunk, use embedding model to create vectors and inject them into pinecone.
